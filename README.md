@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedikamujgule
 - 👀 I’m interested in Front End development
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently working as a front end developer with expetise in Angular 
 - 💞️ I’m looking to collaborate on New ands latest Front end development technologies 
 - 📫 How to reach me vedikamujgule@gmail.com
 
