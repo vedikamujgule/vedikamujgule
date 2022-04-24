@@ -1,7 +1,15 @@
 - 👋 Hi, I’m @vedikamujgule
-- 👀 I’m interested in Front End design and development
-- 🌱 I’m currently working as a front end developer with expetise in Angular 
-- 💞️ I’m looking to collaborate on New and latest Front end development technologies 
+- 👀 I’m interested in Data Structures and Algorithms, Problem solving, Application design and development
+- 🌱 I’m currently working as a Senior Software Engineer with expetise in Angular, React JS and Node JS
+- 💞️ I’m looking to collaborate on New and latest Web evelopment technologies, Problem soving and develope my analytical thinking. 
+- My Technology stack/skills include:
+▪ Programming Languages: Typescript, Javascript, Java, C-sharp
+▪ Technologies: Angular 8/10/11/12, HTML5, TypeScript, Bootstrap, Angular Material, CSS 3, Scss, JSON, RestAPI, Node JS, ReactJS, Redux, RxJS, Docker, Camunda, BPMN.
+▪ Tools: Visual Studio Code, Postman, Adobe XD, Figma, Chrome DevTools, JIRA, Camunda, BPMN Modeler, Eclipse, Microsoft Visual Studio
+▪ Version control tools: Git
+▪ Database: MySQL, H2, MongoDB
+▪ Cloud: Google Cloud Platform
+
 - 📫 Reach me at vedikamujgule@gmail.com
 
 <!---
