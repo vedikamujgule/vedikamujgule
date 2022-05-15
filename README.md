@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vedikamujgule
+- 👋 Hi, I’m Vedika Mujgule! 
 - 👀 I’m interested in Human Computer Interaction, Data Analytics, Problem solving, Application design and development
 - 🌱 I’m currently working as a Senior Software Engineer and I’m looking to collaborate on New and latest Web evelopment technologies, Problem soving and develope my analytical thinking. 
 - My Technology stack/skills include:
