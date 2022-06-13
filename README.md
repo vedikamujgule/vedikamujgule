@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vedika Mujgule! 
 - 👀 I’m interested in Human-Computer Interaction, Data Analytics, Problem solving, Application design, and development
-- 🌱 I’m currently working as a Senior Software Engineer and I’m looking to collaborate on New and latest Web development technologies, Problem-solving, and develop my analytical thinking. 
+- 🌱 I’m currently working as a Senior Software Engineer and I’m looking to collaborate on New and latest software development technologies, Problem-solving, and develop my analytical thinking. 
 - My Technology stack/skills include:
 ▪ Programming Languages: Typescript, Javascript, Java, C-sharp
 ▪ Technologies: Angular 8/10/11/12, HTML5, TypeScript, Bootstrap, Angular Material, CSS 3, Scss, JSON, RestAPI, Node JS, ReactJS, Redux, RxJS, Docker, Camunda, BPMN.
