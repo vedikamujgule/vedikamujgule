@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vedika Mujgule! [](https://komarev.com/ghpvc/?username=vedikamujgule&color=blue&style=flat-square&label=Profile+visitors)
+- 👋 Hi, I’m Vedika Mujgule! ![](https://komarev.com/ghpvc/?username=sudonitin&color=blue&style=flat-square&label=Profile+visitors)
 - 👀 I’m interested in Problem solving to develope involved Software Application.
 - 🌱 I’m currently working as a Senior Software Engineer and I’m looking to collaborate on New and latest software development technologies, Problem-solving, and develop my analytical thinking. 
 - My Technology stack/skills include:
