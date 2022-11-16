@@ -9,6 +9,10 @@
 ▪ Database: MySQL, H2, MongoDB
 ▪ Cloud: Google Cloud Platform
 
+  <a href="https://github.com/sudonitin">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=vedikamujgule&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Vedika's GitHub stats"/>
+</a>
+
 - 📫 Reach me at vedikamujgule@gmail.com
 
 <!---
