@@ -12,10 +12,7 @@
 
 **Languages and Tools:** 
 <p>
-  <a href="https://github.com/sudonitin">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=shubhankar1477&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Shubhankar's GitHub stats"/>
-</a>
-  
+
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
