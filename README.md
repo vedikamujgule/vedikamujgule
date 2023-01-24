@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Vedika Mujgule! ![](https://komarev.com/ghpvc/?username=sudonitin&color=blue&style=flat-square&label=Profile+visitors)
 - 👀 I’m interested in Problem solving to develope involved Software Application.
-- 🌱 I’m currently working as a Senior Software Engineer and I’m looking to collaborate on New and latest software development technologies, Problem-solving, and develop my analytical thinking. 
+- 🌱 I’m currently an MS in Information Systems Student at J. Mack Robinson College of Business and a former Senior Software Engineer, looking to collaborate on New and latest software development technologies, Problem-solving, and develop my analytical thinking. 
 - My Technology stack/skills include:
-▪ Programming Languages: Typescript, Javascript, Java, C-sharp
-▪ Technologies: Angular 8/10/11/12, HTML5, TypeScript, Bootstrap, Angular Material, CSS 3, Scss, JSON, RestAPI, Node JS, ReactJS, Redux, RxJS, Docker, Camunda, BPMN.
+▪ Programming Languages: Typescript, Javascript, Java, C#
+▪ Technologies: Angular 13, HTML5, TypeScript, Bootstrap, Angular Material, CSS 3, Scss, JSON, RestAPI, Node JS, ReactJS, Redux, RxJS, Docker, Camunda, BPMN.
 ▪ Tools: Visual Studio Code, Postman, Adobe XD, Figma, Chrome DevTools, JIRA, Camunda, BPMN Modeler, Eclipse, Microsoft Visual Studio
 ▪ Version control tools: Git
 ▪ Database: MySQL, H2, MongoDB
