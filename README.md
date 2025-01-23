@@ -1,12 +1,11 @@
 - 👋 Hi, I’m Vedika Mujgule! ![](https://komarev.com/ghpvc/?username=sudonitin&color=blue&style=flat-square&label=Profile+visitors)
 - 👀 I’m interested in Problem solving to develope involved Software Application.
-- 🌱 I’m currently an MS in Information Systems Student at J. Mack Robinson College of Business and a former Senior Software Engineer, looking to collaborate on New and latest software development technologies, Problem-solving, and develop my analytical thinking. 
+- 🌱 I’m an MS in Information Systems Student at J. Mack Robinson College of Business and a former Senior Software Engineer, looking to collaborate on New and latest software development technologies, Problem-solving, and develop my analytical thinking. 
 - My Technology stack/skills include:
-▪ Programming Languages: Typescript, Javascript, Java, C#
-▪ Technologies: Angular 13, HTML5, TypeScript, Bootstrap, Angular Material, CSS 3, Scss, JSON, RestAPI, Node JS, ReactJS, Redux, RxJS, Docker, Camunda, BPMN.
-▪ Tools: Visual Studio Code, Postman, Adobe XD, Figma, Chrome DevTools, JIRA, Camunda, BPMN Modeler, Eclipse, Microsoft Visual Studio
-▪ Version control tools: Git
-▪ Database: MySQL, H2, MongoDB
+▪  Languages/Technologies: Typescript/Javascript, Express, Python MySQL, SPA, HTML5, CSS3/SASS, Material UI, Tailwind CSS, Bootstrap, Webpack, Rest APIs, npm, Redux,  RxJS, CI/CD, MVC
+ ▪ Tools: VS code IDE, Figma, Git, MS-SQL, Postman,  Swagger,  JIRA, MongoDB, Docker, AWS,  CMS
+▪  Google Cloud Platform - Certified Associate Cloud Engineer (Link)
+▪  Professional Scrum Master - (Link) 
 ▪ Cloud: Google Cloud Platform
 - 📫 Reach me at vedikamujgule@gmail.com
 
